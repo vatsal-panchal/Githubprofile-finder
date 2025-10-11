@@ -5,7 +5,7 @@ A simple and intuitive web application to search for GitHub user profiles. Enter
 ## Live Demo
 
 Check out the live project here:  
-[https://vatsal-project.netlify.app/](https://vatsal-project.netlify.app/)
+https://vatsal-panchal.github.io/GitHub-Profile-Finder/
 
 ## Features
 
